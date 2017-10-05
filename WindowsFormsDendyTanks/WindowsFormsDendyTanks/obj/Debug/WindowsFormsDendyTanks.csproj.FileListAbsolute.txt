@@ -1,0 +1,36 @@
+C:\Users\Adrian\Desktop\WindowsFormsDendyTanks\WindowsFormsDendyTanks\bin\Debug\WindowsFormsDendyTanks.exe.config
+C:\Users\Adrian\Desktop\WindowsFormsDendyTanks\WindowsFormsDendyTanks\bin\Debug\WindowsFormsDendyTanks.exe
+C:\Users\Adrian\Desktop\WindowsFormsDendyTanks\WindowsFormsDendyTanks\bin\Debug\WindowsFormsDendyTanks.pdb
+C:\Users\Adrian\Desktop\WindowsFormsDendyTanks\WindowsFormsDendyTanks\obj\Debug\WindowsFormsDendyTanks.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\WindowsFormsDendyTanks\WindowsFormsDendyTanks\obj\Debug\WindowsFormsDendyTanks.Form1.resources
+C:\Users\Adrian\Desktop\WindowsFormsDendyTanks\WindowsFormsDendyTanks\obj\Debug\WindowsFormsDendyTanks.Properties.Resources.resources
+C:\Users\Adrian\Desktop\WindowsFormsDendyTanks\WindowsFormsDendyTanks\obj\Debug\WindowsFormsDendyTanks.csproj.GenerateResource.Cache
+C:\Users\Adrian\Desktop\WindowsFormsDendyTanks\WindowsFormsDendyTanks\obj\Debug\WindowsFormsDendyTanks.exe
+C:\Users\Adrian\Desktop\WindowsFormsDendyTanks\WindowsFormsDendyTanks\obj\Debug\WindowsFormsDendyTanks.pdb
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsFormsDendyTanks\WindowsFormsDendyTanks\bin\Debug\WindowsFormsDendyTanks.exe.config
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsFormsDendyTanks\WindowsFormsDendyTanks\obj\Debug\WindowsFormsDendyTanks.exe
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsFormsDendyTanks\WindowsFormsDendyTanks\obj\Debug\WindowsFormsDendyTanks.pdb
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsFormsDendyTanks\WindowsFormsDendyTanks\bin\Debug\WindowsFormsDendyTanks.exe
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsFormsDendyTanks\WindowsFormsDendyTanks\bin\Debug\WindowsFormsDendyTanks.pdb
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsFormsDendyTanks\WindowsFormsDendyTanks\obj\Debug\WindowsFormsDendyTanks.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsFormsDendyTanks\WindowsFormsDendyTanks\obj\Debug\WindowsFormsDendyTanks.Form1.resources
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsFormsDendyTanks\WindowsFormsDendyTanks\obj\Debug\WindowsFormsDendyTanks.Properties.Resources.resources
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsFormsDendyTanks\WindowsFormsDendyTanks\obj\Debug\WindowsFormsDendyTanks.csproj.GenerateResource.Cache
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsFormsDendyTanks\WindowsFormsDendyTanks\bin\Debug\WindowsFormsDendyTanks.exe.config
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsFormsDendyTanks\WindowsFormsDendyTanks\obj\Debug\WindowsFormsDendyTanks.exe
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsFormsDendyTanks\WindowsFormsDendyTanks\obj\Debug\WindowsFormsDendyTanks.pdb
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsFormsDendyTanks\WindowsFormsDendyTanks\bin\Debug\WindowsFormsDendyTanks.exe
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsFormsDendyTanks\WindowsFormsDendyTanks\bin\Debug\WindowsFormsDendyTanks.pdb
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsFormsDendyTanks\WindowsFormsDendyTanks\obj\Debug\WindowsFormsDendyTanks.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsFormsDendyTanks\WindowsFormsDendyTanks\obj\Debug\WindowsFormsDendyTanks.Form1.resources
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsFormsDendyTanks\WindowsFormsDendyTanks\obj\Debug\WindowsFormsDendyTanks.Properties.Resources.resources
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsFormsDendyTanks\WindowsFormsDendyTanks\obj\Debug\WindowsFormsDendyTanks.csproj.GenerateResource.Cache
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\Windows Forms\WindowsFormsDendyTanks\WindowsFormsDendyTanks\bin\Debug\WindowsFormsDendyTanks.exe.config
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\Windows Forms\WindowsFormsDendyTanks\WindowsFormsDendyTanks\obj\Debug\WindowsFormsDendyTanks.exe
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\Windows Forms\WindowsFormsDendyTanks\WindowsFormsDendyTanks\obj\Debug\WindowsFormsDendyTanks.pdb
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\Windows Forms\WindowsFormsDendyTanks\WindowsFormsDendyTanks\bin\Debug\WindowsFormsDendyTanks.exe
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\Windows Forms\WindowsFormsDendyTanks\WindowsFormsDendyTanks\bin\Debug\WindowsFormsDendyTanks.pdb
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\Windows Forms\WindowsFormsDendyTanks\WindowsFormsDendyTanks\obj\Debug\WindowsFormsDendyTanks.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\Windows Forms\WindowsFormsDendyTanks\WindowsFormsDendyTanks\obj\Debug\WindowsFormsDendyTanks.Form1.resources
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\Windows Forms\WindowsFormsDendyTanks\WindowsFormsDendyTanks\obj\Debug\WindowsFormsDendyTanks.Properties.Resources.resources
+C:\Users\Adrian\Documents\Visual Studio 2013\Projects\Windows Forms\WindowsFormsDendyTanks\WindowsFormsDendyTanks\obj\Debug\WindowsFormsDendyTanks.csproj.GenerateResource.Cache
